@@ -1,0 +1,23 @@
+@charset "utf-8";
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.jumbotron { 
+    text-align: center;   
+    background-color: #6f5499;
+    color: #fff;    
+}
+.jumbotron h1 {
+    font-size: 36px;
+}
+form {    
+    width: 80%;
+    margin: auto;
+}
+.glyphicon-remove {
+    color: red;
+}
+.label {
+    font-size: 14px; 
+}
+
