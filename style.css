@@ -21,3 +21,8 @@ form {
     font-size: 14px; 
 }
 
+/* start-page */ 
+.add-page .form-control {
+    margin-bottom: 4px;
+}
+

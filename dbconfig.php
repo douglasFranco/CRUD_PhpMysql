@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$user = "root";
-$password = "";
-$datbase = "mentira";
-mysql_connect($host,$user,$password);
-mysql_select_db($datbase);
+  $host = "localhost";
+  $user = "root";
+  $password = "";
+  $datbase = "crud_php_db";
+  $link = mysqli_connect($host,$user,$password);
+  $link->select_db($datbase);
 ?>
